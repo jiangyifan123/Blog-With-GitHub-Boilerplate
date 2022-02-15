@@ -1,3 +1,18 @@
+layout: post
+title: urllib
+slug: python-urllib
+date: 2022-2-14 18:58
+status: publish
+author: Andy帆
+categories: 
+
+  - 默认分类
+tags: 
+  - 博客
+  - Maverick
+  - GitHub
+excerpt: Hello World!
+
 # [`urllib`](https://docs.python.org/3/library/urllib.html#module-urllib) — URL handling modules
 
 **Source code:** [Lib/urllib/](https://github.com/python/cpython/tree/3.10/Lib/urllib/)
